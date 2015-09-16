@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:53.387734
+#+DATE: 2015-08-30 20:17:54.684364
 #+TITLE: 右繞佛塔功德經
 #+PROPERTY: CBETA_ID T16n0700
 #+PROPERTY: ID KR6i0390
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 700
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0390_T_000-0801b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0390_T_001-0801b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.700¶
-
- 《右繞佛塔功德經》¶
+No. 700¶
+《右繞佛塔功德經》¶
 ¶
 大周于闐國三藏沙門¶
 實叉難陀等奉　制譯¶
